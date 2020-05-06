@@ -2,29 +2,38 @@
  Siéntase libre de editar el recurso, pero asegúrese de pasarlo y darme créditos;)
 
 Creditos
+
 Este script es una base de https://github.com/lenzh/Lenzh_chopshop
 
 Muchas gracias.
 
 Requisitos
+
 es_extended ( https://github.com/ESX-Org/es_extended )
 pNotify ( https://github.com/Nick78111/pNotify )
 progressBars ( https://github.com/chipsahoy6/progressBars/releases )
 
 Descarga e instalación
-Descargar https://github.com/lenzh/Lenzh_chopshop/archive/master.zip
+
+Descargar https://github.com/WackySpring/esx_chatarreroilegal
+
 Ponlo en el [esx]directorio
+
 Instalación
+
 Importar items.sql en tu base de datos
+
 Agregue esto en su server.cfg:
+
 start esx_chatarrero
 
 Apoyo
+
 Comente y si puedo les solucione el problema
 
 
-Legal
 Licencia
+
 Copyright (C) 2015-2019 Jérémie N'gadi
 
 Este programa es software libre: puede redistribuirlo y / o modificarlo bajo los términos de la Licencia Pública General de GNU Como lo publica la Free Software Foundation, ya sea la versión 3 de la Licencia, o (a su elección) cualquier versión posterior.
