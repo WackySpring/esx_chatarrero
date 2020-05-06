@@ -4,7 +4,7 @@
 Creditos
 Este script es una base de https://github.com/lenzh/Lenzh_chopshop
 
-Muchas gracias especiales a esos muchachos.
+Muchas gracias.
 
 Requisitos
 es_extended ( https://github.com/ESX-Org/es_extended )
