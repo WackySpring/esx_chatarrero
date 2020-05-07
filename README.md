@@ -7,7 +7,7 @@ Este script es una modificación de https://github.com/lenzh/Lenzh_chopshop
 
 Muchas gracias Lenzh
 
-#Change Logs
+# Change Logs
 
 # Requisitos
 
