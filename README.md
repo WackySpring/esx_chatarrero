@@ -3,9 +3,9 @@
 # Creditos
  Siéntase libre de editar el recurso, pero asegúrese de pasarlo y darme créditos;)
  
-Este script es una base de https://github.com/lenzh/Lenzh_chopshop
+Este script es una modificación de https://github.com/lenzh/Lenzh_chopshop
 
-Muchas gracias.
+Muchas gracias Lenzh
 
 # Requisitos
 
