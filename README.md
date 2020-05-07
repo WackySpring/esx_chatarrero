@@ -7,6 +7,8 @@ Este script es una modificación de https://github.com/lenzh/Lenzh_chopshop
 
 Muchas gracias Lenzh
 
+#Change Logs
+
 # Requisitos
 
 es_extended ( https://github.com/ESX-Org/es_extended )
