@@ -17,7 +17,7 @@ progressBars ( https://github.com/chipsahoy6/progressBars/releases )
 
 ## Descarga e Instalación
 
-Descargar https://github.com/WackySpring/esx_chatarreroilegal
+Descargar https://github.com/WackySpring/esx_chatarrero
 
 Ponlo en el [esx]directorio
 
