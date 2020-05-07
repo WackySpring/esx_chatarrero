@@ -36,12 +36,18 @@ Translate into Spanish.
 
 >## Download and Installation
 >Download https://github.com/WackySpring/esx_chatarrero
+
 >Put it in the [esx] directory
+
 >**Installation**
+
 >Import items.sql into your database
+
 >Add this to your server.cfg:
+
 >start esx_chatarrero
 
 
 >## Support 
+
 >Comment and if I can solve the problem
