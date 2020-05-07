@@ -9,16 +9,22 @@ Muchas gracias.
 # Requisitos
 
 es_extended ( https://github.com/ESX-Org/es_extended )
+
 pNotify ( https://github.com/Nick78111/pNotify )
+
 progressBars ( https://github.com/chipsahoy6/progressBars/releases )
 
 ## Descarga e Instalación
 
 Descargar https://github.com/WackySpring/esx_chatarreroilegal
+
 Ponlo en el [esx]directorio
+
 **Instalación**
 Importar items.sql en tu base de datos
+
 Agregue esto en su server.cfg:
+
 start esx_chatarrero
 
 ## Licencia
