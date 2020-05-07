@@ -1,43 +1,51 @@
 # esx_chatarrero
+
+# Creditos
  Siéntase libre de editar el recurso, pero asegúrese de pasarlo y darme créditos;)
-
-Creditos
-
 Este script es una base de https://github.com/lenzh/Lenzh_chopshop
 
 Muchas gracias.
 
-Requisitos
+# Requisitos
 
 es_extended ( https://github.com/ESX-Org/es_extended )
 pNotify ( https://github.com/Nick78111/pNotify )
 progressBars ( https://github.com/chipsahoy6/progressBars/releases )
 
-Descarga e instalación
+## Descarga e Instalación
 
 Descargar https://github.com/WackySpring/esx_chatarreroilegal
-
 Ponlo en el [esx]directorio
-
-Instalación
-
+**Instalación**
 Importar items.sql en tu base de datos
-
 Agregue esto en su server.cfg:
-
 start esx_chatarrero
 
-Apoyo
+## Licencia
+
+
+MIT License
+
+Copyright (c) 2020 WackySpring
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Apoyo
 
 Comente y si puedo les solucione el problema
-
-
-Licencia
-
-Copyright (C) 2015-2019 Jérémie N'gadi
-
-Este programa es software libre: puede redistribuirlo y / o modificarlo bajo los términos de la Licencia Pública General de GNU Como lo publica la Free Software Foundation, ya sea la versión 3 de la Licencia, o (a su elección) cualquier versión posterior.
-
-Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de COMERCIABILIDAD O APTITUD PARA UN PROPÓSITO EN PARTICULAR. Vea la Licencia Pública General de GNU para más detalles.
-
-Debería haber recibido una copia de la Licencia Pública General de GNU junto con este programa. Si no, vea http://www.gnu.org/licenses/ .
