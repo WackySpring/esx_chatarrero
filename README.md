@@ -1,6 +1,6 @@
 >This script is translated into Spanish. An a video of the script: 
-
-https://www.youtube.com/watch?v=DNIAt4qj-Gs
+> 
+> https://www.youtube.com/watch?v=DNIAt4qj-Gs
 
 
 
@@ -8,10 +8,10 @@ https://www.youtube.com/watch?v=DNIAt4qj-Gs
 
 
 # Credits
- >Feel free to edit the resource, but be sure to pass it on and give me credits;)
- 
+>Feel free to edit the resource, but be sure to pass it on and give me credits;)
+>  
 >This script is a modification of https://github.com/lenzh/Lenzh_chopshop
-
+> 
 > https://forum.cfx.re/t/esx-lenzh-chopshop-no-support-given/458261
 >Thanks Lenzh :wink:
 
@@ -40,11 +40,11 @@ Translate into Spanish.
 >Put it in the [esx] directory
 
 **Installation**
-
+> 
 >Import items.sql into your database
-
+> 
 >Add this to your server.cfg:
-
+> 
 >start esx_chatarrero
 
 
