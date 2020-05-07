@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=DNIAt4qj-Gs
 
 ># Credits
  >Feel free to edit the resource, but be sure to pass it on and give me credits;)
+ 
 >This script is a modification of https://github.com/lenzh/Lenzh_chopshop
+
 > https://forum.cfx.re/t/esx-lenzh-chopshop-no-support-given/458261
 >Thanks Lenzh :wink:
 
