@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=DNIAt4qj-Gs
 
 
 
-># Credits
+# Credits
  >Feel free to edit the resource, but be sure to pass it on and give me credits;)
  
 >This script is a modification of https://github.com/lenzh/Lenzh_chopshop
@@ -27,19 +27,19 @@ Translate into Spanish.
 ```
 
 
-> # Requirements
+ # Requirements
 > es_extended (https://github.com/ESX-Org/es_extended)
 > 
 > pNotify (https://github.com/Nick78111/pNotify)
 > 
 > progressBars (https://github.com/chipsahoy6/progressBars/releases)
 
->## Download and Installation
+# Download and Installation
 >Download https://github.com/WackySpring/esx_chatarrero
 
 >Put it in the [esx] directory
 
->**Installation**
+**Installation**
 
 >Import items.sql into your database
 
@@ -48,6 +48,6 @@ Translate into Spanish.
 >start esx_chatarrero
 
 
->## Support 
+# Support 
 
 >Comment and if I can solve the problem
